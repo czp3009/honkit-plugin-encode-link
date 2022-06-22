@@ -1,0 +1,12 @@
+{
+  "name": "honkit-plugin-encode-link",
+  "version": "0.0.1",
+  "description": "Encode url in link for honkit",
+  "engines": {
+    "honkit": ">=3.7.3"
+  },
+  "main": "index.js",
+  "repository": "https://github.com/czp3009/honkit-plugin-encode-link",
+  "author": "czp3009@gmail.com",
+  "license": "MIT"
+}
